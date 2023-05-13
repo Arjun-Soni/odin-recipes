@@ -1,0 +1,31 @@
+*{
+    background-color: antiquewhite;
+}
+.head{
+    text-align: center;
+    color: Red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    text-align: center;
+    /* background-color: antiquewhite; */
+    color: darkblue;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.list ul li {
+    text-align: center;
+    /* background-color: antiquewhite; */
+    color: darkblue;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.list ul li a{
+    text-align: center;
+    font-size: larger;
+}
+.head img{
+    height: auto;
+    width: 500px;
+    border: 2px solid black;
+}
